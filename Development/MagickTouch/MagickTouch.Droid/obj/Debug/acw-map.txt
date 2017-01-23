@@ -1,0 +1,4 @@
+MagickTouch.Droid.MainActivity, MagickTouch.Droid;md5884776f7e2d6ecef3ff360a3c21e9f3e.MainActivity
+MagickTouch.Droid.MainActivity, MagickTouch.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5884776f7e2d6ecef3ff360a3c21e9f3e.MainActivity
+MagickTouch.Droid.MainActivity;md5884776f7e2d6ecef3ff360a3c21e9f3e.MainActivity
+magicktouch.droid.MainActivity;md5884776f7e2d6ecef3ff360a3c21e9f3e.MainActivity

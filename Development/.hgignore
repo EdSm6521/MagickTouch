@@ -1,0 +1,7 @@
+syntax: glob
+MagickTouch/MagickTouch.Droid/bin
+MagickTouch/MagickTouch.Droid/obj
+MagickTouch/MagickTouch.WinPhone/obj
+MagickTouch/MagickTouch/bin
+MagickTouch/MagickTouch/obj
+MagickTouch/MagickTouch.iOS/obj
